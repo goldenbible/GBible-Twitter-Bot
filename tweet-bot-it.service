@@ -1,0 +1,16 @@
+[Unit]
+Description=TweetBotIT
+
+[Service]
+ExecStart=/bin/node /var/tweet-bot/tweet-bot-it.js
+ExecStop=/bin/node /var/tweet-bot/tweet-bot-it.js stop
+Restart=always
+User=nobody
+Group=nobody
+Environment=PATH=/usr/bin
+Environment=NODE_ENV=production
+WorkingDirectory=/var/tweet-bot/
+
+[Install]
+WantedBy=multi-user.target
+
