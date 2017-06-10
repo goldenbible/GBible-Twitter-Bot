@@ -1,7 +1,6 @@
 # GBible-Twitter-Bot
 Twitter Bot for tweeting and re-tweeting charity organizations of the world, Red Cross and others...
 
-============
 Golden Bible
 ============
 
