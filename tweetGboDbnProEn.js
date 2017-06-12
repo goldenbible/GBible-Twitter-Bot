@@ -112,7 +112,7 @@ var ring3 = [
     'Red Cross in #Paraguay: http://www.cruzroja.org.py/ #RedCross',
     '#Charity for #Austria: http://www.charity-charities.org/Austria-charities/Vienna.html',
     '#RedCross of South Sudan #SouthSudan: http://southsudanredcross.org/',
-    'Red Cross in Netherlands: http://www.rodekruis.nl/ #Netherlands #RedCross',
+    'Red Cross in Netherlands: http://www.rodekruis.nl/ #Netherlands #Holland #RedCross',
     'Swiss Red Cross: http://www.redcross.ch/ #Switzerland #RedCross',
     'Red Cross of #Latvia: http://www.redcross.lv/en/ #RedCross',
     'Red Cross of #Belarus: http://redcross.by/ #RedCross',
@@ -733,24 +733,24 @@ var bible_index = 0;
 var twit = require('twit');
 
 var programming = new twit({
-  consumer_key:         '',
-  consumer_secret:  '',
-  access_token:         '',
-  access_token_secret:  ''
+  consumer_key:         'htC9tOwYuE88UwqIwi39WTtPg',
+  consumer_secret:  'sDHwA7IyuS2DltBfsBOLAnnYq82p6RNaIu7YzuUFNDkzyjIyBM',
+  access_token:         '713642228124663809-216D6cXbmukkeZSf1GFv2DqO9MN4FzA',
+  access_token_secret:  'GHD11IzjEBplwTBnew8Mm3vrQHNWxYRlWIJVbVkp4WX9T'
 });
 
 var goldenbibleorg = new twit({
-  consumer_key:         '',
-  consumer_secret:  '',
-  access_token:         '',
-  access_token_secret:  ''
+  consumer_key:         'VJR4i0AZWjCrHGbLleWOcsISp',
+  consumer_secret:  '3J7tU6ZoWSGj1WK5R3gewaYHVK27tdTFDToi0b0ToKB3yZwiNG',
+  access_token:         '825694517655437312-v7JnhGXRj5ghOzQOwiGV4AIiQ6XWe9c',
+  access_token_secret:  'xC5mrbYOiGXsQ3afHoqzgS5dclKWN0RtRDsaC4WEg549q'
 });
 
 var daily_biz_news = new twit({
-  consumer_key:         '',
-  consumer_secret:  '',
-  access_token:         '',
-  access_token_secret:  ''
+  consumer_key:         'ANffNlpoCN8MnNplRlwZJRSOX',
+  consumer_secret:  'VlWDuxpNKj8ekBvMyJxFoXmx7L4LZSi2c0boetDBK3LJnLuCss',
+  access_token:         '853719629465866240-yWNMaF5jMHom8zmu8rH7Qqs0oqGCJxK',
+  access_token_secret:  'IrgdFVhxgVg2IyzBDqA6djTZirEo575g2UjrRbhJP9n8D'
 });
 
 function tweet_ring0()
@@ -1697,5 +1697,6 @@ if (process.argv.length == 2) // && process.argv[2] == 'stop')
     before `shutdown -r now` check the script by `node index.js`
     and renew script in services by `source register.sh`
 */
+
 
 

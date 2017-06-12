@@ -62,7 +62,7 @@ var ring3 = [
     'Cruz Vermelha Argentina: http://www.cruzroja.org.ar/ #Argentina #CruzVermelha',
     "Cruz Vermelha Francesa: http://www.croix-rouge.fr/ #França #CruzVermelha",
     'Cruz Vermelha Polaca: http://www.pck.pl/index.php?lang=pt #Poland #CruzVermelha',
-    "Sociedade da Cruz Vermelha do Quênia: http://www.kenyaredcross.org/ #Kenya #CruzVermelha ",
+    "Sociedade da Cruz Vermelha do Quênia: http://www.kenyaredcross.org/ #Quênia #CruzVermelha ",
     'Cruz Vermelha Espanhola: http://www.cruzroja.es/ #Espanha #CruzVermelha',
     'Tanzania Red Cross Society: http://www.trcs.or.tz/ #Tanzânia #CruzVermelha',
     "Cruz Vermelha da China: http://www.redcross.org.cn/ #China #CruzVermelha",
@@ -71,8 +71,8 @@ var ring3 = [
     'Cruz Vermelha Venezuelana #CruzVermelha: http://www.cruzrojavenezolana.org/ Caridade em #Venezuela: http://bit.ly/29ydNLR',
     'Cruz Vermelha no Peru: http://www.cruzroja.org.pe/ #Peru #CruzVermelha',
     "Sociedade da Cruz Vermelha da Indonésia: http://www.pmi.or.id/ #Indonésia #CruzVermelha",
-    'Cruz Vermelha de Gana: http://www.redcrossghana.org/ #Ghana #CruzVermelha',
-    'Cruz Vermelha Romena: http://www.crucearosie.ro/ #Roménia #CruzVermelha',
+    'Cruz Vermelha de Gana: http://www.redcrossghana.org/ #Gana #CruzVermelha',
+    'Cruz Vermelha Roménia: http://www.crucearosie.ro/ #Roménia #CruzVermelha',
 
 
     "Doe à Cruz Vermelha da Ucrânia: https://goo.gl/niAr27 #Ucrânia #CruzVermelha",
@@ -105,7 +105,7 @@ var ring3 = [
     '#CruzVermelha de #Suécia: http://www.redcross.se/',
     'Cruz Vermelha em #Paraguai: http://www.cruzroja.org.py/ #CruzVermelha',
     '#Caridade para #Áustria: http://www.charity-charities.org/Austria-charities/Vienna.html',
-    '#CruzVermelha do Sudão do Sul #SouthSudan: http://southsudanredcross.org/',
+    '#CruzVermelha do Sudão do Sul #SudãoDoSul: http://southsudanredcross.org/',
 
 
 	'Cruz Vermelha na Holanda: http://www.rodekruis.nl/ #Holanda #CruzVermelha',
@@ -123,7 +123,7 @@ var ring3 = [
     'Cruz Vermelha de #Croácia: http://www.hck.hr/ #CruzVermelha',
     'Cruz Vermelha de #Ireland: http://www.redcross.ie/ #CruzVermelha',
     'Cruz Vermelha de #Benin: http://croixrougebenin.afredis.com/ #CruzVermelha',
-    'Cruz Vermelha de Geórgia: http://redcross.ge/ #CruzVermelha',
+    'Cruz Vermelha de #Geórgia: http://redcross.ge/ #CruzVermelha',
     'Cruz Vermelha da Costa Rica: http://www.cruzroja.or.cr/ #CostaRica #CruzVermelha',
     'Cruz Vermelha de #Noruega: http://www.rodekors.no/ #CruzVermelha',
     'Cruz Vermelha de #Myanmar: http://www.redcross.org.mm/ #CruzVermelha',
@@ -137,12 +137,12 @@ var ring3 = [
     'Cruz Vermelha de #Armenia: http://redcross.am/ #CruzVermelha',
     '#Caridade para #Malásia: http://www.malaysiancare.org/',
     '#Caridade para #Paquistão: http://christiandevelopmentpakistan.org/',
-    '#Caridade para a República Centro-Africana #CentralAfricanRepublic: https://goo.gl/HucaYG',
+    '#Caridade para a República Centro-Africana #RepúblicaCentroAfricana: https://goo.gl/HucaYG',
     'Cruz Vermelha de #Namibi: http://www.redcross.org.na/ #CruzVermelha',
     '#Caridade para #Togo: https://goo.gl/hIIrNH',
     'Cruz Vermelha de #Uruguai: http://www.cruzrojauruguaya.org/ #CruzVermelha',
     'Cruz Vermelha de #Lesotho: http://www.redcross.org.ls/ #CruzVermelha',
-    'Cruz Vermelha da Nova Zelândia #Nova Zelândia: http://www.redcross.org.nz/ #CruzVermelha',
+    'Cruz Vermelha da Nova Zelândia #NovaZelândia: http://www.redcross.org.nz/ #CruzVermelha',
     'Red Crescent of #Syria #CrescenteVermelho: http://www.sarc.sy/',
     // Moldova, Congo, República de [já no ring2], Panamá, Japão, Eritréia, Lituânia,
     // Arménia, Malásia, Paquistão, República Centro-Africana, Namíbia, Togo, Uruguai,
@@ -160,7 +160,7 @@ var ring3 = [
     // Jamaica, Bósnia e Herzegovina, Eslovênia, Líbano,
     // Letónia, Sri Lanka, Arábia Saudita, Botsuana, Libéria, Macedónia, República da,
     /*República Checa,*/
-    'Cruz Vermelha Checa: http://www.cervenykriz.eu/ #RepúblicaTcheca #CruzVermelha',
+    'Cruz Vermelha Checa: http://www.cervenykriz.eu/ #RepúblicaCheca #CruzVermelha',
 
 'Cruz Vermelha de #Gabão: http://croixrouge-gabon.org/ #CruzVermelha',
     '#Caridade para #Guiné: https://goo.gl/4CQyx8',
@@ -171,10 +171,10 @@ var ring3 = [
     'Cruz Vermelha de #Chipre: http://www.redcross.org.cy/en/home #CruzVermelha',
     'Cruz Vermelha de Hong Kong #Hong Kong: http://redcross.org.hk #CruzVermelha',
     'Cruz Vermelha de #Tailândia: https://english.redcross.or.th/ #CruzVermelha',
-    '#Caridade para Trinidad e Tobago #TrinidadAndTobago: https://goo.gl/l57Ue1',
+    '#Caridade para Trinidad e Tobago #TrinidadETobago: https://goo.gl/l57Ue1',
     'Red Crescent of #Uzbekistan #CrescenteVermelho: http://redcrescent.uz/',
     //' Guiné Equatorial',
-    '#Caridade para #SierraLeone https://goo.gl/jwwLiY',
+    '#Caridade para #SerraLeoa https://goo.gl/jwwLiY',
     'Crescente Vermelho de #Quirguistão #CrescenteVermelho: http://www.redcrescent.kg/',
     '#Caridade para #Albânia: http://www.kksh.org.al/',
     'Cruz Vermelha de #Senegal: http://www.croixrougesenegal.com/ #CruzVermelha',
@@ -191,7 +191,7 @@ var ring3 = [
     'Cruz Vermelha na Guiana: http://guyanaredcross.org.gy/ #Guiana #CruzVermelha',
     'Crescente Vermelho de #Bangladesh #CrescenteVermelho: http://www.bdrcs.org/',
     '#Caridade para #Maurícia https://goo.gl/NUpkTd',
-    '#Caridade para a Coréia do Norte #NorthKorea: http://www.helpinghandskorea.org/',
+    '#Caridade para a Coréia do Norte #CoréiaDoNorte: http://www.helpinghandskorea.org/',
     'Cruz Vermelha de #Malta: http://www.redcross.org.mt/ #CruzVermelha',
     'Red Crescent of #Jordan #CrescenteVermelho: http://www.jnrcs.org/',
     '#Caridade para #Argélia: http://www.cra-algerie.org/',
@@ -232,21 +232,21 @@ var ring3 = [
     'Red Crescent of #Djibouti #CrescenteVermelho: http://www.redcrescent-dj.org/',
     '#Caridade para #Brunei: https://goo.gl/P7ccRU',
     'Cruz Vermelha de #Bermuda: www.bermudaredcross.com/ #CruzVermelha',
-    'Cruz Vermelha das Ilhas Cayman #CaymanIslands: www.redcross.org.ky/ #CruzVermelha',
+    'Cruz Vermelha das Ilhas Cayman #IlhasCayman: www.redcross.org.ky/ #CruzVermelha',
     // 'Aqui deve ser uma instituição de caridade para Faroe Islands',
     'Cruz Vermelha de #Liechtenstein: http://www.roteskreuz.li/ #CruzVermelha',
     'Cruz Vermelha de #Monaco: http://www.croix-rouge.mc/ #CruzVermelha',
     'Crescente Vermelho de #Tunísia #Tunísia: http://www.crt.tn/',
     '#Caridade para #Iêmen: http://www.zakat.org/country/yemen/',
     // '#Caridade para #BritishIslands: https://goo.gl/0pRJVN', - parte da U.K.
-    '#Caridade para Ilhas Cook #CookIslands: http://cookfoundation.org/',
+    '#Caridade para Ilhas Cook #IlhasCook: http://cookfoundation.org/',
     '#Caridade para #Palau: https://goo.gl/Id7lKD',
     // '#Caridade para #Anguilla: https://charitylook.org/city/anguilla/', aqui é do Mississippi dos EUA
     '#Caridade para #Comores: http://www.comoroscharity.org/',
     '#Caridade para #Bhutan: https://goo.gl/DRHEHH',
     'Red Crescent of #Afghanistan #CrescenteVermelho: http://www.redcrescent.af/',
     '#Caridade para #Mauritânia: https://goo.gl/XK81gO',
-    '#Caridade para Ilhas Falkland #FalklandIsalands: http://www.falklandsconservation.com/',
+    '#Caridade para Ilhas Falkland #IlhasFalkland: http://www.falklandsconservation.com/',
     '#Caridade para #Somália: https://goo.gl/1Bn35T',
     // Vaticano segundo no terceiro anel ...
     'Crescente Vermelho de #Maldivas #CrescenteVermelho: https://redcrescent.org.mv/'
@@ -287,10 +287,10 @@ var bible_index = 0;
 var twit = require('twit');
 
 var gbo_pt = new twit({
-  consumer_key:         '',
-  consumer_secret:  '',
-  access_token:         '',
-  access_token_secret:  ''
+  consumer_key:         'IqniigpqiMTV1hCEbgyXtEhSG',
+  consumer_secret:  'UZRFmz9bNQ8MkVs7rxAEHQWyuytAvbwssoOC042GN3qXF7vRWN',
+  access_token:         '853737614637236224-3pwODUGRznlxWknDAR5zQ73iLIdb8Lq',
+  access_token_secret:  '4UAhT3aTfeg3OrmBk1G880zVEMHTpd3rCcBjtNx0oYXRk'
 });
 
 
@@ -787,5 +787,6 @@ if (process.argv.length == 2) // && process.argv[2] == 'stop')
     And it is normal to see "error window" after disconnect, 
     because it is disconnect had come...
 */
+
 
 

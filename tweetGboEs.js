@@ -47,8 +47,8 @@ var ring2 = [
     'Cruz Roja Argentina: http://www.cruzroja.org.ar/ #Argentina #CruzRoja',
     'Cruz Roja en Perú: http://www.cruzroja.org.pe/ #Perú #CruzRoja',
     'Cruz Roja en #Paraguay: http://www.cruzroja.org.py/ #CruzRoja',
-    'Cruz Roja de Uruguay: http://www.cruzrojauruguaya.org/ #CruzRoja',
-    'Cruz Roja de Panamá: http://www.cruzroja.org.pa/ #CruzRoja',
+    'Cruz Roja de #Uruguay: http://www.cruzrojauruguaya.org/ #CruzRoja',
+    'Cruz Roja de #Panamá: http://www.cruzroja.org.pa/ #CruzRoja',
     'Cruz Roja de #Nicaragua: http://cruzrojanicaraguense.org/ #CruzRoja',
     'Cruz Roja de El Salvador: http://www.cruzrojasal.org.sv/ #ElSalvador #CruzRoja',
     '#CruzRoja de #Honduras: http://www.cruzroja.org.hn/',
@@ -109,7 +109,7 @@ var ring3 = [
     '#CruzRoja de #Suecia: http://www.redcross.se/',
     '#Caridad de #Austria: http://www.charity-charities.org/Austria-charities/Vienna.html',
     '#CruzRoja del Sur de Sudán #SudánDelSur: http://southsudanredcross.org/',
-    'Cruz Roja en #PaísesBajos: http://www.rodekruis.nl/ #Países Bajos #CruzRoja',
+    'Cruz Roja en Países Bajos: http://www.rodekruis.nl/ #PaísesBajos #CruzRoja',
     'Cruz Roja #Suiza: http://www.redcross.ch/ #Suiza #CruzRoja',
     'Cruz Roja de #Letonia: http://www.redcross.lv/es/ #CruzRoja',
     'Cruz Roja de #Belarús: http://redcross.by/ #CruzRoja',
@@ -151,7 +151,7 @@ var ring3 = [
     
     'Cruz Roja de #Jamaica: http://jamaicaredcross.org/ #CruzRoja',
      'Cruz Roja de Bosnia y Herzegovina #BosniaHerezegovina: http: ///www.rcsbh.org/ #CruzRoja',
-     'Cruz Roja de Eslovenia: http://www.rks.si/ #CruzRoja',
+     'Cruz Roja de #Eslovenia: http://www.rks.si/ #CruzRoja',
      '#Caridad para la #Líbano: http://www.lccm.us/',
      'Cruz Roja de #Letonia: http://www.redcross.lv/es/ #CruzRoja',
      'Cruz Roja de Sri Lanka: http://www.redcross.lk/ #SriLanka #CruzRoja',
@@ -302,10 +302,10 @@ var bible_index = 0;
 var twit = require('twit');
 
 var gbo_es = new twit({
-  consumer_key:         '',
-  consumer_secret:      '',
-  access_token:         '',
-  access_token_secret:  ''
+  consumer_key:         '6meOI28FiDcTXUuDyyNFJEsJl',
+  consumer_secret:      '9hIJnHMkTpO7V3Mds3yXRZyI4AeHPvIDPN16oEfGcvixpYmZI7',
+  access_token:         '854762332383309825-G5E2D8z6MfZZd7UasbPuNn8WNmeLiai',
+  access_token_secret:  'q6AfiMwAlxMVBmP3JV05LgRvcF8MhKp9Rg8EJ5K06xksu'
 });
 
 
@@ -803,5 +803,6 @@ if (process.argv.length == 2) // && process.argv[2] == 'stop')
     And it is normal to see "error window" after disconnect, 
     because it is disconnect had come...
 */
+
 
 

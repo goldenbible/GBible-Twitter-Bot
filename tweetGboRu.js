@@ -61,7 +61,7 @@ var ring3 = [
     'Красный Крест Китая: http://www.redcross.org.cn/ #Китай #КрасныйКрест',
     'Красный Крест Уганды: http://www.redcrossug.org/ #Уганда #КрасныйКрест',
     'Индийский Красный Крест: http://indianredcross.org/ #Индия #КрасныйКрест',
-    'Венесуэльский Красный Крест #КрасныйКрест: http://www.cruzrojavenezolana.org/ Благотворительность в Венесуэле: http://bit.ly/29ydNLR',
+    'Венесуэльский Красный Крест #КрасныйКрест: http://www.cruzrojavenezolana.org/ #Благотворительность #Венесуэла: http://bit.ly/29ydNLR',
     'Красный Крест в Перу: http://www.cruzroja.org.pe/ #Перу #КрасныйКрест',
     'Индонезийское общество Красного Креста: http://www.pmi.or.id/ #Индонезия #КрасныйКрест',
     'Красный Крест Ганы: http://www.redcrossghana.org/ #Гана #КрасныйКрест',
@@ -71,25 +71,25 @@ var ring3 = [
 
     'Эквадор: http://www.cruzroja.org.ec/ #Эквадор #КрасныйКрест',
     'Гватемальский Красный Крест: http://www.cruzroja.gt/ #Гватемала #КрасныйКрест',
-    '#Благотворительность для #Камеруна: http://www.idealist.org/view/org/8WbKBhBbx874/',
-    '#Благотворительность для #Мозамбика #https://goo.gl/SqMbSU',
-    '#Благотворительность для #Замбии: https://goo.gl/L6mt1K',
+    '#Благотворительность для #Камерун: http://www.idealist.org/view/org/8WbKBhBbx874/',
+    '#Благотворительность для #Мозамбик #https://goo.gl/SqMbSU',
+    '#Благотворительность #Замбия: https://goo.gl/L6mt1K',
     '#Благотворительность для #Малави: https://goo.gl/ouh5qK',
     '#Благотворительность для #Зимбабве: https://goo.gl/bmDftq',
     'Греческий Красный Крест: http://www.redcross.gr/ #Греция #КрасныйКрест',
     '#КрасныйКрест #Португалия: http://www.cruzvermelha.pt/',
     '#КрасныйКрест #Чили: http://www.cruzroja.cl/',
     '#Благотворительность для Доминиканской Республики #ДоминиканскаяРеспублика: https://goo.gl/vzjjpR',
-    '#Благотворительность для #Боливии: http://www.ayuda.org/',
-    '#КрасныйКрест #Руанды: http://www.rwandaredcross.org/',
+    '#Благотворительность #Боливия: http://www.ayuda.org/',
+    '#КрасныйКрест #Руанда: http://www.rwandaredcross.org/',
     '#КрасныйКрест #Гаити: http://www.croixrouge.ht/',
     'Red Cresent of #Египет: http://egyptianrc.org/ #КрасныйПолумесяц',
-    '#Благотворительность для #Мадагаскара: http://helpmg.org/',
+    '#Благотворительность #Мадагаскар: http://helpmg.org/',
     '#КрасныйКрест #Бурунди: http://www.croixrougeburundi.org/',
-    'Красный Крест #Сербии: http://www.redcross.org.rs/ #КрасныйКрест',
+    'Красный Крест #Сербия: http://www.redcross.org.rs/ #КрасныйКрест',
     '#Благотворительность для Кот-д\'Ивуара #КотдИвуар: http://www.icmrt.org/',
     '#КрасныйКрест #Вьетнама: http://redcross.org.vn/',
-    '#КрасныйКрест #Бельгии: http://www.redcross.be/',
+    '#КрасныйКрест #Бельгия: http://www.redcross.be/',
     '#Благотворительность для Папуа-Новой Гвинеи #ПапуаНоваяГвинея: https://goo.gl/Gx0a0n',
     '#КрасныйКрест #Куба: http://www.sld.cu/sitios/cruzroja',
     '#КрасныйКрест #Гондурас: http://www.cruzroja.org.hn/',
@@ -103,7 +103,7 @@ var ring3 = [
     //  Portugal, Chile, Dominican Republic, Bolivia, Rwanda, Haiti, Egypt, Madagascar, Burundi,
     // ...
     // Sweden, Paraguay, Austria, South Sudan, Netherlands
-    'Красный Крест в Нидерландах: http://www.rodekruis.nl/ #Нидерланды #КрасныйКрест',
+    'Красный Крест в Нидерландах: http://www.rodekruis.nl/ #Нидерланды #Голландия #КрасныйКрест',
     'Швейцарский Красный Крест: http://www.redcross.ch/ #Швейцария #КрасныйКрест',
     'Красный Крест #Латвия: http://www.redcross.lv/ru/ #КрасныйКрест',
     'Красный Крест #Венгрия: http://www.voroskereszt.hu/ #КрасныйКрест',
@@ -172,8 +172,8 @@ var ring3 = [
     'Красный Полумесяц #Узбекистан #КрасныйПолумесяц: http://redcrescent.uz/',
     //' Экваториальная Гвинея',
     '#Благотворительность для #СьерраЛеоне https://goo.gl/jwwLiY',
-    'Красный Полумесяц #Кыргызстана #КрасныйПолумесяц: http://www.redcrescent.kg/',
-    '#Благотворительность для #Албания: http://www.kksh.org.al/',
+    'Красный Полумесяц #Кыргызстан #КрасныйПолумесяц: http://www.redcrescent.kg/',
+    '#Благотворительность #Албания: http://www.kksh.org.al/',
     'Красный Крест #Сенегала: http://www.croixrougesenegal.com/ #КрасныйКрест',
     'Красный Крест #Фиджи: http://www.redcross.com.fj/ #КрасныйКрест',
     '#Благотворительность #Судан https://goo.gl/9fykQb',
@@ -190,11 +190,11 @@ var ring3 = [
 
 'Красный Крест в Гайане: http://guyanaredcross.org.gy/ #Гайана #КрасныйКрест',
     'Красный Полумесяц #Бангладеш #КрасныйПолумесяц: http://www.bdrcs.org/',
-    '#Благотворительность для #Маврикий https://goo.gl/NUpkTd',
+    '#Благотворительность #Маврикий https://goo.gl/NUpkTd',
     '#Благотворительность для Северной Кореи #СевернаяКорея: http://www.helpinghandskorea.org/',
     'Красный Крест #Мальта: http://www.redcross.org.mt/ #КрасныйКрест',
     'Красный Полумесяц #Иордания #КрасныйПолумесяц: http://www.jnrcs.org/',
-    '#Благотворительность для #Алжир: http://www.cra-algerie.org/',
+    '#Благотворительность #Алжир: http://www.cra-algerie.org/',
     'Красный Полумесяц #Иран #КрасныйПолумесяц: http://www.rcs.ir/',
     'Красный Крест #Люксембурга: http://www.croix-rouge.lu/en/ #КрасныйКрест',
     'Красный Крест #Мали: http://www.croixrouge-mali.org/ #КрасныйКрест',
@@ -289,10 +289,10 @@ var bible_index = 0;
 var twit = require('twit');
 
 var gbo_pt = new twit({
-  consumer_key:         '',
-  consumer_secret:      '',
-  access_token:         '',
-  access_token_secret:  ''
+  consumer_key:         'ooajpsH7pI9Uz4VmlLJy7kDVL',
+  consumer_secret:      'WlwByTIEsYgsF3o8fFopYWmJZqIvi0p1QX5Qie2fMUEQwpVfbn',
+  access_token:         '854449822346170368-rJn7NyTIJvrJsm7zsO43y8kNvjkmyFT',
+  access_token_secret:  'bsIRXI4rz5GRtTGGqyV5L2TdNqsGjyN3s1aRbQg4GXSV0'
 });
 
 
@@ -729,5 +729,6 @@ if (process.argv.length == 2) // && process.argv[2] == 'stop')
     And it is normal to see "error window" after disconnect, 
     because it is disconnect had come...
 */
+
 
 
