@@ -17,7 +17,7 @@ var ring0 = [
 // RING 1 - countries which Red Cross organizations are supporting many other countries
 var ring1 = [
         // American
-        'Doar para a Cruz Vermelha Americana [EUA]: https://www.redcross.org/donate/donation #CruzVermelha #EstadosUnidos',
+        'Doar para a Cruz Vermelha Americana [#EUA]: https://www.redcross.org/donate/donation #CruzVermelha #EstadosUnidos',
         // British
         'Doar para Cruz Vermelha Britânica: http://www.redcross.org.uk/Donate-Now #CruzVermelha #ReinoUnido, #GrãBretanha',
         // MYBlood
@@ -139,7 +139,7 @@ var ring3 = [
     '#Caridade para #Paquistão: http://christiandevelopmentpakistan.org/',
     '#Caridade para a República Centro-Africana #CentralAfricanRepublic: https://goo.gl/HucaYG',
     'Cruz Vermelha de #Namibi: http://www.redcross.org.na/ #CruzVermelha',
-    'Cruz Vermelha de #Togo: http://www.croixrouge-togo.org/ #CruzVermelha',
+    '#Caridade para #Togo: https://goo.gl/hIIrNH',
     'Cruz Vermelha de #Uruguai: http://www.cruzrojauruguaya.org/ #CruzVermelha',
     'Cruz Vermelha de #Lesotho: http://www.redcross.org.ls/ #CruzVermelha',
     'Cruz Vermelha da Nova Zelândia #Nova Zelândia: http://www.redcross.org.nz/ #CruzVermelha',
@@ -151,10 +151,10 @@ var ring3 = [
     'Cruz Vermelha de #Jamaica: http://jamaicaredcross.org/ #CruzVermelha',
     'Cruz Vermelha da Bósnia e Herzegovina #Bósnia e Herzegovina: http: ///www.rcsbh.org/ #CruzVermelha',
     'Cruz Vermelha de #Eslovênia: http://www.rks.si/ #CruzVermelha',
-    '#Líbano: http://www.lccm.us/',
+    '#Caridade para #Líbano: http://www.lccm.us/',
     'Cruz Vermelha de #Letónia: http://www.redcross.lv/pt/ #CruzVermelha',
     'Cruz Vermelha do Sri Lanka: http://www.redcross.lk/ #SriLanka #CruzVermelha',
-    '#Botswana: http://bocaip.org.bw/',
+    '#Caridade para #Botswana: http://bocaip.org.bw/',
     '#Caridade para #Liberia: http://berkleycenter.georgetown.edu/organizations/liberian-council-of-churches',
     'Cruz Vermelha de #Macedonia: http://www.ckrm.org.mk/ #CruzVermelha',
     // Jamaica, Bósnia e Herzegovina, Eslovênia, Líbano,
@@ -174,15 +174,15 @@ var ring3 = [
     '#Caridade para Trinidad e Tobago #TrinidadAndTobago: https://goo.gl/l57Ue1',
     'Red Crescent of #Uzbekistan #CrescenteVermelho: http://redcrescent.uz/',
     //' Guiné Equatorial',
-    'Cruz Vermelha da Serra Leoa: http://www.sierraleoneredcross.net/ #SierraLeone #CruzVermelha',
+    '#Caridade para #SierraLeone https://goo.gl/jwwLiY',
     'Crescente Vermelho de #Quirguistão #CrescenteVermelho: http://www.redcrescent.kg/',
     '#Caridade para #Albânia: http://www.kksh.org.al/',
     'Cruz Vermelha de #Senegal: http://www.croixrougesenegal.com/ #CruzVermelha',
     'Cruz Vermelha de #Fiji: http://www.redcross.com.fj/ #CruzVermelha',
-    'Red Crescent of #Sudan #CrescenteVermelho: http://srcs.sd/',
+    '#Caridade para #Sudan https://goo.gl/9fykQb',
     '#Caridade para #Montenegro: http://www.ckcg.co.me/',
 // '#Caridade para Cabo Verde #CapeVerde: https://goo.gl/5DbtM6',
-    'Crescente Vermelho de #Turcomenistão #CrescenteVermelho: https://goo.gl/Zhsvsc',
+    '#Caridade para #Turcomenistão https://goo.gl/Zhsvsc',
     'Crescente Vermelho de #Kuwait #CrescenteVermelho: http://krcs.org.kw/',
     // Timor Leste, Gabão, Guiné, Suazilândia, Iraque, Emirados Árabes Unidos, Cingapura, Chipre,
     // Hong Kong, Tailândia, Trinidad e Tobago, Uzbequistão, Guiné Equatorial, Serra Leoa,
@@ -190,7 +190,7 @@ var ring3 = [
     /* Guiana */ 
     'Cruz Vermelha na Guiana: http://guyanaredcross.org.gy/ #Guiana #CruzVermelha',
     'Crescente Vermelho de #Bangladesh #CrescenteVermelho: http://www.bdrcs.org/',
-    'Cruz Vermelha de #Maurícia: http://www.mauritiusredcross.org/ #CruzVermelha',
+    '#Caridade para #Maurícia https://goo.gl/NUpkTd',
     '#Caridade para a Coréia do Norte #NorthKorea: http://www.helpinghandskorea.org/',
     'Cruz Vermelha de #Malta: http://www.redcross.org.mt/ #CruzVermelha',
     'Red Crescent of #Jordan #CrescenteVermelho: http://www.jnrcs.org/',

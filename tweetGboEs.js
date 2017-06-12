@@ -20,7 +20,7 @@ var ring0 = [
 // RING 1 - countries which Red Cross organizations are supporting many other countries
 var ring1 = [
         // American
-        'Donación a la Cruz Roja Americana [EUA]: https://www.redcross.org/donate/donation #CruzRoja #EstadosUnidos',
+        'Donación a la Cruz Roja Americana [#EUA]: https://www.redcross.org/donate/donation #CruzRoja #EstadosUnidos',
         // British
         'Donación a la Cruz Roja Británica: http://www.redcross.org.uk/Donate-Now #CruzRoja #GranBretaña #ReinoUnido',
         // MYBlood
@@ -49,17 +49,17 @@ var ring2 = [
     'Cruz Roja en #Paraguay: http://www.cruzroja.org.py/ #CruzRoja',
     'Cruz Roja de Uruguay: http://www.cruzrojauruguaya.org/ #CruzRoja',
     'Cruz Roja de Panamá: http://www.cruzroja.org.pa/ #CruzRoja',
-    'Cruz Roja de Nicaragua: http://cruzrojanicaraguense.org/ #CruzRoja',
+    'Cruz Roja de #Nicaragua: http://cruzrojanicaraguense.org/ #CruzRoja',
     'Cruz Roja de El Salvador: http://www.cruzrojasal.org.sv/ #ElSalvador #CruzRoja',
-    '#CruzRoja de Honduras: http://www.cruzroja.org.hn/',
-    '#CruzRoja de Chile: http://www.cruzroja.cl/',
+    '#CruzRoja de #Honduras: http://www.cruzroja.org.hn/',
+    '#CruzRoja de #Chile: http://www.cruzroja.cl/',
     'Cruz Roja Guatemalteca: http://www.cruzroja.gt/ #Guatemala #CruzRoja',
     'Ecuatoriano: http://www.cruzroja.org.ec/ #Ecuador #CruzRoja',
-    '#Caridad para República Dominicana #DominicanRepublic: https://goo.gl/vzjjpR',
+    '#Caridad para República Dominicana #RepúblicaDominicana: https://goo.gl/vzjjpR',
     '#CruzRoja de #Cuba: http://www.sld.cu/sitios/cruzroja',
     'Cruz Roja de Costa Rica: http://www.cruzroja.or.cr/ #CostaRica #CruzRoja',
     '#Caridad para #Bolivia: http://www.ayuda.org/',
-    'Cruz Roja de Andorra: http://www.creuroja.ad/ #CruzRoja'
+    'Cruz Roja de #Andorra: http://www.creuroja.ad/ #CruzRoja'
   ];
 
 // RING 3 - other countries
@@ -141,7 +141,7 @@ var ring3 = [
     '#Caridad para #Pakistán: http://christiandevelopmentpakistan.org/',
     '#Caridad para la República Centroafricana #RepúblicaCentroafricana: https://goo.gl/HucaYG',
     'Cruz Roja de #Namibi: http://www.redcross.org.na/ #CruzRoja',
-    'Cruz Roja de #Togo: http://www.croixrouge-togo.org/ #CruzRoja',
+    '#Caridad para #Togo: https://goo.gl/hIIrNH',
     'Cruz Roja de #Lesotho: http://www.redcross.org.ls/ #CruzRoja',
     'Cruz Roja de Nueva Zelanda #NuevaZelanda: http://www.redcross.org.nz/ #CruzRoja',
     'Creciente Roja de #Siria #CrecienteRoja: http://www.sarc.sy/',
@@ -176,15 +176,15 @@ var ring3 = [
     '#Caridad para Trinidad y Tobago #TrinidadYTobago: https://goo.gl/l57Ue1',
     'Creciente Roja de #Uzbekistán #CrecienteRoja: http://redcrescent.uz/',
     //' Guinea Ecuatorial',
-    'Cruz Roja de Sierra Leona: http://www.sierraleoneredcross.net/ #SierraLeone #CruzRoja',
+    '#Caridad para #SierraLeona https://goo.gl/jwwLiY',
     'Creciente Roja de #Kirguistán #CrecienteRoja: http://www.redcrescent.kg/',
     '#Caridad para #Albania: http://www.kksh.org.al/',
     'Cruz Roja de #Senegal: http://www.croixrougesenegal.com/ #CruzRoja',
     'Cruz Roja de #Fiji: http://www.redcross.com.fj/ #CruzRoja',
-    'Creciente Roja de #Sudan #CrecienteRoja: http://srcs.sd/',
+    '#Caridad para #Sudán https://goo.gl/9fykQb',
     '#Caridad para #Montenegro: http://www.ckcg.co.me/',
     '#Caridad para Cabo Verde #CapeVerde: https://goo.gl/5DbtM6',
-    'Creciente Roja de #Turkmenistán #CrecienteRoja: https://goo.gl/Zhsvsc',
+    '#Caridad para #Turkmenistán https://goo.gl/Zhsvsc',
     'Creciente Roja de #Kuwait #CrecienteRoja: http://krcs.org.kw/',
 
     // East Timor, Gabon, Guinea, Swaziland, Iraq, United Arab Emirates, Singapore, Cyprus,
@@ -193,7 +193,7 @@ var ring3 = [
     /* Guyana*/ 
     'Cruz Roja en Guyana: http://guyanaredcross.org.gy/ #Guyana #CruzRoja',
     'Creciente Roja de #Bangladesh #CrecienteRoja: http://www.bdrcs.org/',
-    'Cruz Roja de #Mauricio: http://www.mauritiusredcross.org/ #CruzRoja',
+    '#Caridad para #Mauricio https://goo.gl/NUpkTd',
     '#Caridad para Corea del Norte #CoreaDelNorte: http://www.helpinghandskorea.org/',
     'Cruz Roja de #Malta: http://www.redcross.org.mt/ #CruzRoja',
     'Creciente Roja de #Jordania #CrecienteRoja: http://www.jnrcs.org/',
